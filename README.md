@@ -1,1 +1,2 @@
 ![alt-text-1](/images/Operant_1.jpg "Touchscreen operant box version 1") ![alt-text-1](/images/Operant_2.jpg "Touchscreen operant box version 2")
+![alt-text-1](/images/Operant_3.jpg "Operant box misc") ![alt-text-1](/images/lickmeter.jpg "Portable lickometer for headfixed mice")
