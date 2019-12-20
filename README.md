@@ -3,6 +3,6 @@
 ![alt-text-1](/images/DIN_rail.jpg "DIN rail") ![alt-text-1](/images/tower.jpg "Tower")
 ![alt-text-1](/images/Fan_cover.jpg "Fan cover") ![alt-text-1](/images/Food_consumption_2.jpg "Food consumption monitoring system")
 ![alt-text-1](/images/liquid_1.jpg "Liquid consumption monitoring system") ![alt-text-1](/images/pellet.jpg "pellet reward dispenser")
-![alt-text-1](/images/Craddles.jpg "Arduino and optocoupler craddles") ![alt-text-1](/images/Arduino_uno_caddy.jpg "Uno caddy branded")
+![alt-text-1](/images/Craddles.JPG "Arduino and optocoupler craddles") ![alt-text-1](/images/Arduino_uno_caddy.jpg "Uno caddy branded")
 ![alt-text-1](/images/Relay_cover.jpg "relay caddy") ![alt-text-1](/images/Food_consumption.jpg "Food consumption load cell monitor")
 
