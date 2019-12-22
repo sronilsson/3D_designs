@@ -5,9 +5,9 @@
 * Rewards delivered with [12V peristaltic liquid pump](https://www.amazon.com/dp/B0799DKLZ3/ref=cm_sw_r_tw_dp_U_x_Ja5.Db50ZB94D).
 * Arduino script controls pump, and detects IR breaks, and capacitance touch responses. 
 
-![alt-text-1](/operant_box/Operant_1.jpg "Touchscreen operant box version 1") ![alt-text-1](/operant_box/Operant_2.jpg "Touchscreen operant box version 2")
-![alt-text-1](/operant_box/operant_pic1.jpg "Touchscreen operant box") ![alt-text-1](/operant_box/operant_pic2.jpg "Portable lickometer for headfixed mice")
-![alt-text-1](/operant_box/operant_pic3.jpg "Touchscreen operant box") ![alt-text-1](/operant_box/operant_pic4.jpg "Touchscreen operant box")
-![alt-text-1](/operant_box/operant_pic5.jpg "Touchscreen operant box") ![alt-text-1](/operant_box/operant_pic6.jpg "Touchscreen operant box")
+![alt-text-1](images/Operant_1.jpg "Touchscreen operant box version 1") ![alt-text-1](images/Operant_2.jpg "Touchscreen operant box version 2")
+![alt-text-1](images/operant_pic1.jpg "Touchscreen operant box") ![alt-text-1](images/operant_pic2.jpg "Portable lickometer for headfixed mice")
+![alt-text-1](images/operant_pic3.jpg "Touchscreen operant box") ![alt-text-1](images/operant_pic4.jpg "Touchscreen operant box")
+![alt-text-1](images/operant_pic5.jpg "Touchscreen operant box") ![alt-text-1](images/operant_pic6.jpg "Touchscreen operant box")
 
 
